@@ -26,18 +26,17 @@ and Windows) platforms.
 
 ## Codebase
 
-1. [Bookmark Client](https://github.com/opeolluwa/bookmark_client) ![open
-   source] - The mobile and desktop application
-- [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
-2. [Bookmark gRPC codegen](https://github.com/opeolluwa/) ![open source] -
-   shared protobuf files and generated codes for Rust, Typescript and Rust˘
-3. [Bookmark database codegen](https://github.com/opeolluwa/) ![open source] -
+1. [Bookmark Client](https://github.com/opeolluwa/bookmark_client)
+   `open source` - The mobile and desktop application
+2. [Bookmark gRPC codegen](https://github.com/opeolluwa/) `open source` - shared
+   protobuf files and generated codes for Rust, Typescript and Rust˘
+3. [Bookmark database codegen](https://github.com/opeolluwa/) `open source` -
    shared database files for Sqlite and PostgreSQL
-4. [Bookmark notification service](https://github.com/opeolluwa/) ![closed
-   source] - manages emails, push notification and event queues
-5. [Bookmark HTTP->gRPC proxy](https://github.com/opeolluwa/) ![open source]
+4. [Bookmark notification service](https://github.com/opeolluwa/) `closed
+   source` - manages emails, push notification and event queues
+5. [Bookmark HTTP->gRPC proxy](https://github.com/opeolluwa/) `open source`
    HTTP->gRPC proxy and API gateway
-6. [Bookmark application pipeline]() ![closed source] - holds the application
+6. [Bookmark application pipeline]() `closed source` - holds the application
    deliverables, `.apk` for androids, `.msi` and `.exe` for Windows, `.deb` for
    Linux, `.dmg` for macOS and AppImage for supported platforms
 
