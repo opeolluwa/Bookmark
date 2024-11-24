@@ -28,6 +28,7 @@ and Windows) platforms.
 
 1. [Bookmark Client](https://github.com/opeolluwa/bookmark_client) ![open
    source] - The mobile and desktop application
+- [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
 2. [Bookmark gRPC codegen](https://github.com/opeolluwa/) ![open source] -
    shared protobuf files and generated codes for Rust, Typescript and Rust˘
 3. [Bookmark database codegen](https://github.com/opeolluwa/) ![open source] -
